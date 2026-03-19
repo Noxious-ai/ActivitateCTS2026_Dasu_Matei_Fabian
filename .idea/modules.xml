@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar03/Seminar03.iml" filepath="$PROJECT_DIR$/Seminar03/Seminar03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar04/Seminar04.iml" filepath="$PROJECT_DIR$/Seminar04/Seminar04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1098.iml" filepath="$PROJECT_DIR$/Seminar1098.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar03/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar03/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar03/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar03/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar04/Spital/Spital.iml" filepath="$PROJECT_DIR$/Seminar04/Spital/Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar04/Spital02/Spital02.iml" filepath="$PROJECT_DIR$/Seminar04/Spital02/Spital02.iml" />
     </modules>
   </component>
 </project>

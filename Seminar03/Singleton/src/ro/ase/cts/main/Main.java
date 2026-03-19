@@ -1,6 +1,6 @@
 package ro.ase.cts.main;
 
-import ro.ase.cts.clase.Hotel;
+import ro.ase.cts.cts.clase.Hotel;
 
 public class Main {
     public static void main(String[] args) {

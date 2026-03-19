@@ -3,10 +3,10 @@ package ro.ase.cts.main;
 import java.io.FileNotFoundException;
 import java.util.List;
 
-import ro.ase.cts.clase.Angajat;
-import ro.ase.cts.clase.Aplicant;
-import ro.ase.cts.clase.readere.AngajatReader;
-import ro.ase.cts.clase.readere.AplicantReader;
+import ro.ase.cts.cts.clase.Angajat;
+import ro.ase.cts.cts.clase.Aplicant;
+import ro.ase.cts.cts.clase.readere.AngajatReader;
+import ro.ase.cts.cts.clase.readere.AplicantReader;
 
 public class Program {
 

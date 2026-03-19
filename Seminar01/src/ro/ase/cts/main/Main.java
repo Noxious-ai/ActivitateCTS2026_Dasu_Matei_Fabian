@@ -1,11 +1,11 @@
 package ro.ase.cts.main;
 
-import ro.ase.cts.animale.FoodType;
-import ro.ase.cts.animale.Lion;
-import ro.ase.cts.animale.Monkey;
-import ro.ase.cts.animale.Zebra;
-import ro.ase.cts.zoo.Zoo;
-import ro.ase.cts.zoo.ZooKeeper;
+import ro.ase.cts.cts.animale.FoodType;
+import ro.ase.cts.cts.animale.Lion;
+import ro.ase.cts.cts.animale.Monkey;
+import ro.ase.cts.cts.animale.Zebra;
+import ro.ase.cts.cts.zoo.Zoo;
+import ro.ase.cts.cts.zoo.ZooKeeper;
 
 public class Main {
     public static void main(String[] args) {
