@@ -17,8 +17,8 @@ public class Main {
 
 
         AbstractBuilder builder = new InternareBuilder("Georgica");
-        Internare internare3 = builder.setPatRabatabil(true).build();
-        Internare internare4 = builder.setArePapuci(true).setNumePacient("Gigel").build();
+        Internare internare3 = builder.setPatRabatabil(true).setNumePacient("Muie").build();
+        Internare internare4 = new InternareBuilder("Andrei").setArePapuci(true).build();
 
         System.out.println(internare3.toString());
         System.out.println(internare4.toString());
