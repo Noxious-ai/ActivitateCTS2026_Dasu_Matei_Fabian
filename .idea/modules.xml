@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar09/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Seminar09/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar10/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar10/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Extra01/Extra01.iml" filepath="$PROJECT_DIR$/Extra01/Extra01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Extra02/Extra02.iml" filepath="$PROJECT_DIR$/Extra02/Extra02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Extra03/Extra03.iml" filepath="$PROJECT_DIR$/Extra03/Extra03.iml" />
@@ -18,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar05/Seminar05.iml" filepath="$PROJECT_DIR$/Seminar05/Seminar05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar06/Seminar06.iml" filepath="$PROJECT_DIR$/Seminar06/Seminar06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar09/Seminar09.iml" filepath="$PROJECT_DIR$/Seminar09/Seminar09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1098.iml" filepath="$PROJECT_DIR$/Seminar1098.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar03/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar03/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar03/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar03/Singleton/Singleton.iml" />
