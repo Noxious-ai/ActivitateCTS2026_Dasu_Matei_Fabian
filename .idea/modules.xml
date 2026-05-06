@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar09/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Seminar09/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar12/ChainOfResponsability/ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12/Command/Command.iml" filepath="$PROJECT_DIR$/Seminar12/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar10/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar10/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Extra01/Extra01.iml" filepath="$PROJECT_DIR$/Extra01/Extra01.iml" />
@@ -25,10 +27,12 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar10/Seminar10.iml" filepath="$PROJECT_DIR$/Seminar10/Seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1098.iml" filepath="$PROJECT_DIR$/Seminar1098.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11/Seminar11.iml" filepath="$PROJECT_DIR$/Seminar11/Seminar11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12/Seminar12.iml" filepath="$PROJECT_DIR$/Seminar12/Seminar12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar03/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar03/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar03/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar03/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar04/Spital/Spital.iml" filepath="$PROJECT_DIR$/Seminar04/Spital/Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar04/Spital02/Spital02.iml" filepath="$PROJECT_DIR$/Seminar04/Spital02/Spital02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar12/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar12/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>
